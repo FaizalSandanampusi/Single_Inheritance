@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Single_Inheritance/workflows/Python%20Application/badge.svg?label=passingcolor=greentimestamp=1733847876)
+
 # Session 22 : Single Inheritance
 
 ## Introduction
